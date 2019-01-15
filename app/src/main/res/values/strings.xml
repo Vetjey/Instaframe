@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My NotFirst App</string>
+    <string name="hello_world_string">0</string>
+    <string name="random_heading">It is random number between 0 and %1d</string>
+</resources>
